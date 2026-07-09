@@ -22,11 +22,11 @@
 */
 
 const galleryData = [
-  { src: "img/galeria/foto-01.jpg", caption: "Visita à comunidade local", category: "rua" },
-  { src: "img/galeria/foto-02.jpg", caption: "Sessão na Assembleia Legislativa", category: "assembleia" },
-  { src: "img/galeria/foto-03.jpg", caption: "Parada do Orgulho LGBT", category: "eventos" },
-  { src: "img/galeria/foto-04.jpg", caption: "Pré Candidatura a Deputado Federal", category: "rua" },
-  { src: "img/galeria/foto-05.jpg", caption: "Pose na Alesp!", category: "assembleia" },
-  { src: "img/galeria/foto-06.jpg", caption: "Saindo da Alesp...", category: "assembleia" },
-  { src: "img/galeria/foto-07.jpg", caption: "Falando com meus filhos!", category: "rua" }
+  { src: "img/gallery/foto-01.jpg", caption: "Visita à comunidade local", category: "rua" },
+  { src: "img/gallery/foto-02.jpg", caption: "Sessão na Assembleia Legislativa", category: "assembleia" },
+  { src: "img/gallery/foto-03.jpg", caption: "Parada do Orgulho LGBT", category: "eventos" },
+  { src: "img/gallery/foto-04.jpg", caption: "Pré Candidatura a Deputado Federal", category: "rua" },
+  { src: "img/gallery/foto-05.jpg", caption: "Pose na Alesp!", category: "assembleia" },
+  { src: "img/gallery/foto-06.jpg", caption: "Saindo da Alesp...", category: "assembleia" },
+  { src: "img/gallery/foto-07.jpg", caption: "Falando com meus filhos!", category: "rua" }
 ];
